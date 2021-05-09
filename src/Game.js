@@ -1,7 +1,5 @@
-function Song() {
-}
-
-Song.prototype.persistFavoriteStatus = function(value) {
-  // something complicated
-  throw new Error("not yet implemented");
+function Game () {
+  //using this keyword allows me to call the property of the instance of this prototype
+  this.score = 0;
+  
 };

@@ -2,7 +2,7 @@
 
 The aim is to create a bowling score card in Javascript
 
-# User stories
+## User Stories
 
 ```
 As a player 
